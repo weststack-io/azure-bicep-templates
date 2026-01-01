@@ -1,0 +1,32 @@
+# Azure deployment files
+*.parameters.local.json
+
+# PowerShell
+*.ps1xml
+
+# Bicep build output
+*.json.build
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Local environment files
+.env
+.env.local
+*.local.json
