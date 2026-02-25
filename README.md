@@ -2,7 +2,7 @@
 
 A collection of production-ready Bicep templates for deploying Azure resources, starting with Function Apps on isolated App Service Plans.
 
-## Why This Exists
+## Why I Created This
 
 Azure Bicep documentation is often inconsistent and can be difficult to piece together into a working deployment. API versions change, properties get deprecated, and examples in the docs don't always reflect what actually works. This repository exists to capture **tested, working combinations** of Azure resources and configuration so they can be reliably reused.
 
